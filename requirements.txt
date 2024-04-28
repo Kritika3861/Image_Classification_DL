@@ -1,0 +1,12 @@
+INSTALL ANACONDA
+Package of multiple libraries & IDEs
+   IDEs – Jupyter Notebook, VScode, Spyder
+INSTALL LIBRARIES (these libraries need to be install after you  anaconda being installed)
+  • Tensorflow 
+      pip install tensorflow
+  • Numpy 
+      pip install numpy
+  • Opencv 
+      pip install opencv-python
+  • Matplotlib 
+      conda install -c conda-forge matplotlib
